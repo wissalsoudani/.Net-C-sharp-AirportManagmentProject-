@@ -1,0 +1,132 @@
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP2\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP3\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP4\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP4\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP4\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Asus\Desktop\MAJ Cours\Correction TP4\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\Users\HP\Downloads\Correction TP5(1)\Correction TP5\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\HP\Downloads\Correction TP5(1)\Correction TP5\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\HP\Downloads\Correction TP5(1)\Correction TP5\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\HP\Downloads\Correction TP5(1)\Correction TP5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Correction TP5(1)\Correction TP5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Correction TP5(1)\Correction TP5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Correction TP5(1)\Correction TP5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\HP\Downloads\Correction TP5(1)\Correction TP5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Correction TP5(1)\Correction TP5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\HP\Downloads\Correction TP5(1)\Correction TP5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\HP\Downloads\Correction TP5(1)\Correction TP5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\HP\Downloads\Correction TP5(1)\Correction TP5\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\Users\Administrateur\Downloads\Correction TP8\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\Administrateur\Downloads\Correction TP8\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Administrateur\Downloads\Correction TP8\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Administrateur\Downloads\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Downloads\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Downloads\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Downloads\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\Administrateur\Downloads\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Downloads\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Administrateur\Downloads\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\Administrateur\Downloads\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Administrateur\Downloads\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Séance 9\Correction TP8\Correction TP8\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Séance 9\Correction TP8\Correction TP8\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Séance 9\Correction TP8\Correction TP8\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Séance 9\Correction TP8\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Séance 9\Correction TP8\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Séance 9\Correction TP8\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Séance 9\Correction TP8\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Séance 9\Correction TP8\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Séance 9\Correction TP8\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Séance 9\Correction TP8\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Séance 9\Correction TP8\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Séance 9\Correction TP8\Correction TP8\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 10\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 10\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 10\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 10\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 10\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 10\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 10\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 10\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 10\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 10\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 10\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 10\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 11\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 11\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 11\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 11\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 11\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 11\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 11\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 11\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 11\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 11\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 11\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 11\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 12\Correction\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 12\Correction\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 12\Correction\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 12\Correction\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 12\Correction\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 12\Correction\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 12\Correction\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 12\Correction\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 12\Correction\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 12\Correction\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 12\Correction\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+D:\Ecole\Ecole\Work\Cours .Net\.Net6\Last\Cours Seance 12\Correction\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\Users\wissa\Downloads\AirportManagement (1)\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\wissa\Downloads\AirportManagement (1)\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\wissa\Downloads\AirportManagement (1)\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\wissa\Downloads\AirportManagement (1)\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\wissa\Downloads\AirportManagement (1)\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wissa\Downloads\AirportManagement (1)\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\wissa\Downloads\AirportManagement (1)\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\wissa\Downloads\AirportManagement (1)\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\wissa\Downloads\AirportManagement (1)\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\wissa\Downloads\AirportManagement (1)\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\wissa\Downloads\AirportManagement (1)\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\wissa\Downloads\AirportManagement (1)\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
